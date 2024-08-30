@@ -124,38 +124,6 @@ inner join person on person.person_id = employee.person_id;
 select * from employeeView_1;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 --creating stored procedure for inserting data into table employee_type--
 
 DELIMITER $$
